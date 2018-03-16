@@ -1,0 +1,5 @@
+c:\users\fall2017\documents\visual studio 2013\Projects\Ag\Ag\bin\Debug\Ag.exe.config
+c:\users\fall2017\documents\visual studio 2013\Projects\Ag\Ag\bin\Debug\Ag.exe
+c:\users\fall2017\documents\visual studio 2013\Projects\Ag\Ag\bin\Debug\Ag.pdb
+c:\users\fall2017\documents\visual studio 2013\Projects\Ag\Ag\obj\Debug\Ag.exe
+c:\users\fall2017\documents\visual studio 2013\Projects\Ag\Ag\obj\Debug\Ag.pdb
